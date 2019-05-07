@@ -16,9 +16,13 @@ def sorted():
 
 def range_sum():
 
-
-
-
+ int sum = 0; 
+    while (x != 0) 
+    { 
+        sum += 1; 
+       ; 
+    } 
+    return sum; 
 
 
 
